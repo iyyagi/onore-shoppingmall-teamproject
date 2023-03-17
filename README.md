@@ -1,33 +1,29 @@
-# :pushpin:Cafe Kiosk + POS(Team Project)
+# :pushpin:남성구두 수제화 쇼핑몰(Onore Team Project)
 <hr>
 
 ## 1. 제작 기간 & 참여 인원
-프로젝트 기간 2022.12.05 ~ 2022.12.27(3주) <br>
-프로젝트 인원 : 6명
-![메인](https://user-images.githubusercontent.com/115913274/224522427-48bc68f9-e9b9-4bf0-b6f6-3524d4364b07.JPG)
+프로젝트 기간 2022.02.13 ~ 2022.03.17(4주) <br>
+프로젝트 인원 : 5명
+
+![메인](https://user-images.githubusercontent.com/115913274/225919477-74ebd1a4-c6c1-42a6-b7c6-6270233d5d94.png)
 
 
 ## 2. 사용 기술<br>
-Java 17.0.5 <br>
-Oracle 11g XE
+![사용기술](https://user-images.githubusercontent.com/115913274/225919766-1adce9f3-c034-481d-a1e8-2d571c84943e.png) <br>
 
-외부 라이브러리<br>
-ojdbc6, jcommon-1.0.23, jfreechart-1.0.19<br>
+
 
 ## 3. ER Diagram
 
-![ER](https://user-images.githubusercontent.com/115913274/209953469-fb46e8f5-fd58-4885-ac35-ec73a65850f7.jpg) <br>
+
 
 
 ## 4. Usecase Diagram
-
-![use](https://user-images.githubusercontent.com/115913274/209953711-5fdcacfa-3a3d-4df7-8a88-ca31cdf4fd3b.jpg) <br>
-
-
+![usecase](https://user-images.githubusercontent.com/115913274/225920164-f885f38b-62fc-4da9-aa29-b4bfb6ef664e.png)
 
 
 ## 5. 기능
-- 전체적인 UI는 Java Swing으로 구현
+- 전체적인 UI는 CSS, JS를 이용하여 구
 
 <details>
 <summary><b>기능 설명</b></summary>
