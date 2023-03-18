@@ -19,7 +19,7 @@
 
 
 ## 5. 기능
-- 전체적인 UI는 CSS, JS를 이용하여 구
+- 전체적인 페이지는 CSS, JS를 사용하여 구현 
 
 <details>
 <summary><b>기능 설명</b></summary>
