@@ -9,9 +9,7 @@
 
 
 ## 2. 사용 기술<br>
-![사용기술](https://user-images.githubusercontent.com/115913274/225919766-1adce9f3-c034-481d-a1e8-2d571c84943e.png) <br>
-
-
+![사용기술](https://user-images.githubusercontent.com/115913274/226086031-faccc5e6-e769-4bcd-9bba-6945566ce0f0.JPG)
 
 ## 3. ER Diagram
 
