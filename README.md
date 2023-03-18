@@ -15,7 +15,7 @@
 ![erd](https://user-images.githubusercontent.com/115913274/226086362-71784bdc-b6ca-4eac-aba7-6bed0fbdc6af.JPG)
 
 ## 4. Usecase Diagram
-![usecase](https://user-images.githubusercontent.com/115913274/225920164-f885f38b-62fc-4da9-aa29-b4bfb6ef664e.png)
+![usecase](https://user-images.githubusercontent.com/115913274/226086393-f2bea01a-5303-4ac3-bc32-5037c5f855fc.png)
 
 
 ## 5. 기능
