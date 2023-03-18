@@ -25,7 +25,7 @@
 
 <details>
 <summary><b>기능 설명</b></summary>
-<div markdown="1">
+
 
 ### 5.1. 
 
@@ -51,7 +51,6 @@
 
 
 
-</div>
 </details>
 
 </br>
