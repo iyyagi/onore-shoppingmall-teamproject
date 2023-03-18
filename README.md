@@ -5,7 +5,9 @@
 프로젝트 기간 2022.02.13 ~ 2022.03.17(4주) <br>
 프로젝트 인원 : 5명
 
-![메인](https://user-images.githubusercontent.com/115913274/225919477-74ebd1a4-c6c1-42a6-b7c6-6270233d5d94.png)
+![메인](https://user-images.githubusercontent.com/115913274/225919477-74ebd1a4-c6c1-42a6-b7c6-6270233d5d94.png) <br>
+![메인페이지](https://user-images.githubusercontent.com/115913274/226086462-27d793ed-7dc9-4e69-93e2-d4154d2d7ba0.png)
+
 
 
 ## 2. 사용 기술<br>
