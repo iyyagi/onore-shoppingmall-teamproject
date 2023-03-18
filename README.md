@@ -57,6 +57,12 @@
 </br>
 
 ## 6. 패키지 구성
+![패키지 구성](https://user-images.githubusercontent.com/115913274/226087046-519171dd-8ccd-453e-beb2-718fff745924.JPG)
+
+## 7. 컨트롤러 구성
+![컨트롤러](https://user-images.githubusercontent.com/115913274/226087062-e9b1d4ae-6df1-41bb-98a9-d1f0934a3454.JPG) <br>
+최대한 컨트롤러에는 로직을 쓰지 않으려고 함.
+Service를 만들어 컨트롤러에서 동작하게 끔 구현
 
 
 ## 7. 프로젝트 시연
