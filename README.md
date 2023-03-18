@@ -27,7 +27,10 @@
 <b>기능 설명</b>
 
 
-### 5.1. 
+### 5.1. 상품 카테고리 AJAX 구현
+![ONÓRE - Chrome 2023-03-18 21-56-04](https://user-images.githubusercontent.com/115913274/226107795-bac884f1-a066-4ae8-b445-16e480082eec.gif)
+ShopRestController를 사용하여 JavaScript로 Ajax구현
+![shoprest](https://user-images.githubusercontent.com/115913274/226107858-13ee44d8-d05c-4c9c-a9e1-221b6e788635.JPG)
 
 
 ### 5.2. 
