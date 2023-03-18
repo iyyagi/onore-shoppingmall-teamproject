@@ -12,9 +12,7 @@
 ![사용기술](https://user-images.githubusercontent.com/115913274/226086031-faccc5e6-e769-4bcd-9bba-6945566ce0f0.JPG)
 
 ## 3. ER Diagram
-
-
-
+![erd](https://user-images.githubusercontent.com/115913274/226086362-71784bdc-b6ca-4eac-aba7-6bed0fbdc6af.JPG)
 
 ## 4. Usecase Diagram
 ![usecase](https://user-images.githubusercontent.com/115913274/225920164-f885f38b-62fc-4da9-aa29-b4bfb6ef664e.png)
