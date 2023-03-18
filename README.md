@@ -30,8 +30,11 @@
 ### 5.1. 상품 카테고리 AJAX 구현
 
 ![ONÓRE - 상품페이지](https://user-images.githubusercontent.com/115913274/226108874-ecaf8dd8-4aa9-4978-a480-9d97ee08783c.gif)<br>
+
 ShopRestController를 사용하여 JavaScript로 Ajax구현 <br>
 ![shoprest](https://user-images.githubusercontent.com/115913274/226107858-13ee44d8-d05c-4c9c-a9e1-221b6e788635.JPG) <br>
+
+상품에 마우스를 올리면 제품명 및 가격이 표시<br>
 ![ajax](https://user-images.githubusercontent.com/115913274/226108223-02c57255-924c-471c-9132-beda197b79b2.JPG) <br>
 
 
