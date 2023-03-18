@@ -29,7 +29,7 @@
 
 ### 5.1. 상품 카테고리 AJAX 구현
 
-![title][ONÓRE_-_Chrome_2023-03-18_21-56-04_AdobeExpress](https://user-images.githubusercontent.com/115913274/226108349-a9accd3c-f938-4151-b401-4732b2d39aa6.gif){: width="300" height="300"}<br>
+<img src = "![ONÓRE_-_Chrome_2023-03-18_21-56-04_AdobeExpress](https://user-images.githubusercontent.com/115913274/226108349-a9accd3c-f938-4151-b401-4732b2d39aa6.gif)" width="200" height="400" />
 ShopRestController를 사용하여 JavaScript로 Ajax구현 <br>
 ![shoprest](https://user-images.githubusercontent.com/115913274/226107858-13ee44d8-d05c-4c9c-a9e1-221b6e788635.JPG) <br>
 ![ajax](https://user-images.githubusercontent.com/115913274/226108223-02c57255-924c-471c-9132-beda197b79b2.JPG) <br>
