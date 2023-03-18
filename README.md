@@ -28,7 +28,7 @@
 
 
 ### 5.1. 상품 카테고리 AJAX 구현
-![ONÓRE - Chrome 2023-03-18 21-56-04](https://user-images.githubusercontent.com/115913274/226107795-bac884f1-a066-4ae8-b445-16e480082eec.gif) <br>
+https://user-images.githubusercontent.com/115913274/226107919-af73bc69-dd57-43d2-9308-4a988534e5a8.mp4 <br>
 ShopRestController를 사용하여 JavaScript로 Ajax구현 <br>
 ![shoprest](https://user-images.githubusercontent.com/115913274/226107858-13ee44d8-d05c-4c9c-a9e1-221b6e788635.JPG) <br>
 
