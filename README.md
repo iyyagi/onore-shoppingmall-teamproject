@@ -20,7 +20,7 @@
 ![usecase](https://user-images.githubusercontent.com/115913274/226086393-f2bea01a-5303-4ac3-bc32-5037c5f855fc.png)
 
 
-## 5. 기능
+## 5. 구현 기능
 - 전체적인 페이지는 CSS, JS를 사용하여 구현 
 
 <details>
