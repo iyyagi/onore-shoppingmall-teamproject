@@ -34,13 +34,16 @@
 
 ### 상품 카테고리 비동기  구현
 
+- JavaScript로 비동기 요청 <br>
+- RestController, ShopService에서 요청 처리 후 
+상품에 마우스를 올리면 제품명 및 가격 표시<br>
 ![ONÓRE - 상품페이지](https://user-images.githubusercontent.com/115913274/226108874-ecaf8dd8-4aa9-4978-a480-9d97ee08783c.gif)<br>
 
-ShopRestController를 사용하여 JavaScript로 구현 <br>
-![shoprest](https://user-images.githubusercontent.com/115913274/226107858-13ee44d8-d05c-4c9c-a9e1-221b6e788635.JPG) <br>
 
-상품에 마우스를 올리면 제품명 및 가격 표시<br>
-![ajax](https://user-images.githubusercontent.com/115913274/226108223-02c57255-924c-471c-9132-beda197b79b2.JPG) <br>
+
+
+
+
 
 
 ### QnA 게시판 CRUD 구현
