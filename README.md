@@ -61,7 +61,7 @@
 2. 데이터베이스에 QNA_IMG_PATH, QNA_IMG_1 등 VARCHAR2 타입으로 경로와 이름만 저장하였다. <br>
 
 ![파일업로드](https://user-images.githubusercontent.com/115913274/226154045-aa17b171-7bc4-4f21-b005-7295fc444770.JPG) <br>
-![파일저장](https://user-images.githubusercontent.com/115913274/226154146-5f48764b-30f0-4c29-a4e5-5fbd03ff532b.JPG)
+![파일저장](https://user-images.githubusercontent.com/115913274/226154200-7a9bdef1-addc-4dfb-b6fc-424fc89d2b53.JPG)
 
 ## 10. 개인 회고
 
