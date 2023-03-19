@@ -38,15 +38,10 @@
 - ShopRestController, ShopService에서 요청 처리 후 반환<br>
 ![ONÓRE - 상품페이지](https://user-images.githubusercontent.com/115913274/226108874-ecaf8dd8-4aa9-4978-a480-9d97ee08783c.gif)<br>
 
-
-
-
-
-
-
-
 ### QnA 게시판 CRUD 구현
-![ONÓRE-Chrome-2023-03-19-08-50-52](https://user-images.githubusercontent.com/115913274/226146224-61c8493b-e7e2-46a5-b976-d735f5d88e94.gif) <br>
+- QnaController로 요청 후 QnaService에서 요청처리 후 반환<br>
+![CRUD](https://user-images.githubusercontent.com/115913274/226153204-cbd83108-3af2-4fc5-8af3-868220ada38d.gif)
+
 
 
 ### 마이페이지 구현
