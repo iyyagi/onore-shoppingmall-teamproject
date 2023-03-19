@@ -30,10 +30,10 @@
 - 전체적인 페이지는 CSS, JS를 사용하여 구현 
 
 ### 상품 카테고리 비동기 통신 구현
-
+![상품페이지](https://user-images.githubusercontent.com/115913274/226159434-dce4a649-7f90-4bac-9534-7ef239598587.gif) <br>
 - JavaScript로 비동기 요청 <br>
 - ShopRestController, ShopService에서 요청 처리 후 반환<br>
-![ONÓRE - 상품페이지](https://user-images.githubusercontent.com/115913274/226108874-ecaf8dd8-4aa9-4978-a480-9d97ee08783c.gif)<br>
+
 
 ### QnA 게시판 CRUD 구현
 - QnaController 요청 후 QnaService에서 반환<br>
