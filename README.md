@@ -29,7 +29,7 @@
 ## 7. 구현 기능
 - 전체적인 페이지는 CSS, JS를 사용하여 구현 
 
-### 상품 카테고리 비동기  구현
+### 상품 카테고리 비동기 통신 구현
 
 - JavaScript로 비동기 요청 <br>
 - ShopRestController, ShopService에서 요청 처리 후 반환<br>
