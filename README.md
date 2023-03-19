@@ -27,7 +27,7 @@
 <b>기능 설명</b>
 
 
-### 5.1. 상품 카테고리 AJAX 구현
+### 상품 카테고리 AJAX 구현
 
 ![ONÓRE - 상품페이지](https://user-images.githubusercontent.com/115913274/226108874-ecaf8dd8-4aa9-4978-a480-9d97ee08783c.gif)<br>
 
@@ -38,7 +38,8 @@ ShopRestController를 사용하여 JavaScript로 Ajax구현 <br>
 ![ajax](https://user-images.githubusercontent.com/115913274/226108223-02c57255-924c-471c-9132-beda197b79b2.JPG) <br>
 
 
-### 5.2. 
+### QnA 게시판 CRUD 구현
+![ONÓRE-Chrome-2023-03-19-08-50-52](https://user-images.githubusercontent.com/115913274/226146224-61c8493b-e7e2-46a5-b976-d735f5d88e94.gif) <br>
 
 
 
