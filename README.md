@@ -37,8 +37,10 @@
 
 
 ### QnA 게시판 CRUD 구현
-![CRUD](https://user-images.githubusercontent.com/115913274/226153204-cbd83108-3af2-4fc5-8af3-868220ada38d.gif)
 - QnaController 요청 후 QnaService에서 반환<br>
+
+![CRUD](https://user-images.githubusercontent.com/115913274/226153204-cbd83108-3af2-4fc5-8af3-868220ada38d.gif)
+
 
 ### 마이페이지 구현
 - VIEW : MemberController 요청 후 MemberService에서 반환<br>
