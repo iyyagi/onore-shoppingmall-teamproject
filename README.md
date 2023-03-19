@@ -24,7 +24,7 @@
 서비스에서 비즈니스 로직을 포함하고 컨트롤러에서는 콜만 수행토록 구현
 
 ## 6. 패키지 구성
-![패키지 구성](https://user-images.githubusercontent.com/115913274/226153299-ff682e73-9943-444d-988b-48e8c32eee1b.JPG)
+![패키지 구성](https://user-images.githubusercontent.com/115913274/226153319-f50299ec-0f95-4963-8ced-58b69c8e6a7b.JPG) <br>
 
 
 ## 7. 구현 기능
