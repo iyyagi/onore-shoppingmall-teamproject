@@ -33,7 +33,7 @@ Service를 만들어 컨트롤러에서 동작하게 끔 구현
 <b>기능 설명</b>
 
 
-### 상품 카테고리 AJAX 구현
+### 상품 카테고리  구현
 
 ![ONÓRE - 상품페이지](https://user-images.githubusercontent.com/115913274/226108874-ecaf8dd8-4aa9-4978-a480-9d97ee08783c.gif)<br>
 
