@@ -11,7 +11,7 @@
 
 
 ## 2. 사용 기술<br>
-![사용기술](https://user-images.githubusercontent.com/115913274/226086031-faccc5e6-e769-4bcd-9bba-6945566ce0f0.JPG)
+![기술](https://user-images.githubusercontent.com/115913274/226156319-dde85885-d3ed-4833-866d-f034abfdd4d9.JPG)
 
 ## 3. ER Diagram
 ![erd](https://user-images.githubusercontent.com/115913274/226086362-71784bdc-b6ca-4eac-aba7-6bed0fbdc6af.JPG)
