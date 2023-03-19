@@ -35,8 +35,7 @@
 ### 상품 카테고리 비동기  구현
 
 - JavaScript로 비동기 요청 <br>
-- RestController, ShopService에서 요청 처리 후 
-상품에 마우스를 올리면 제품명 및 가격 표시<br>
+- RestController, ShopService에서 요청 처리 후 반환<br>
 ![ONÓRE - 상품페이지](https://user-images.githubusercontent.com/115913274/226108874-ecaf8dd8-4aa9-4978-a480-9d97ee08783c.gif)<br>
 
 
