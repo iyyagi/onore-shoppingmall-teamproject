@@ -45,6 +45,9 @@
 - 더보기 : MyapgeController 요청 후 MyPagePopUpSerivce에서 반환<br>
 ![bandicam-2023-03-19-09-18-36-666](https://user-images.githubusercontent.com/115913274/226146952-ac6dfd0f-3183-4c46-bd5b-8f7a7093154a.gif)
 
+### Kakao API 활용
+![kakaoapi](https://user-images.githubusercontent.com/115913274/226154435-d9890159-824d-47a1-93d4-ee38861bccbe.JPG)
+
 </br>
 
 
