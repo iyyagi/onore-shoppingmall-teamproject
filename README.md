@@ -60,7 +60,8 @@
 1. 자바에서 사용가능한 UUID (범용 고유 식별자)를 사용하여 중복되는 파일이름을 해결하였다.
 2. 데이터베이스에 QNA_IMG_PATH, QNA_IMG_1 등 VARCHAR2 타입으로 경로와 이름만 저장하였다. <br>
 
-![파일업로드](https://user-images.githubusercontent.com/115913274/226154045-aa17b171-7bc4-4f21-b005-7295fc444770.JPG)
+![파일업로드](https://user-images.githubusercontent.com/115913274/226154045-aa17b171-7bc4-4f21-b005-7295fc444770.JPG) <br>
+![파일저장](https://user-images.githubusercontent.com/115913274/226154146-5f48764b-30f0-4c29-a4e5-5fbd03ff532b.JPG)
 
 ## 10. 개인 회고
 
