@@ -42,21 +42,8 @@ ShopRestController를 사용하여 JavaScript로 Ajax구현 <br>
 ![ONÓRE-Chrome-2023-03-19-08-50-52](https://user-images.githubusercontent.com/115913274/226146224-61c8493b-e7e2-46a5-b976-d735f5d88e94.gif) <br>
 
 
-
-### 5.3.
-
-
-
-### 5.4. 
-
-### 5.5. 마감
-
- 
-### 5.6.
-
- 
-### 5.7.
-
+### 마이페이지 구현
+![bandicam-2023-03-19-09-18-36-666](https://user-images.githubusercontent.com/115913274/226146952-ac6dfd0f-3183-4c46-bd5b-8f7a7093154a.gif)
 
 </br>
 
