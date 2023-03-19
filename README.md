@@ -42,7 +42,7 @@
 
 ### 마이페이지 구현
 - VIEW : MemberController 요청 후 MemberService에서 반환<br>
-- 더보기 : MyapgeController 요청 후 MyPageSerivce에서 반환<br>
+- 더보기 : MyapgeController 요청 후 MyPagePopUpSerivce에서 반환<br>
 ![bandicam-2023-03-19-09-18-36-666](https://user-images.githubusercontent.com/115913274/226146952-ac6dfd0f-3183-4c46-bd5b-8f7a7093154a.gif)
 
 </br>
@@ -50,9 +50,17 @@
 
 ## 8. 문제점
 
+프로젝트 기능 구현 중 사진 파일 업로드 구현이 가장 힘들었다.
+1. 사진 업로드 시 중복되는 파일이름은 어떻게 처리할 것인지?
+2. 사진 경로와 사진파일은 어떻게 데이터베이스에 저장할 것인지?
+
 
 ## 9. 해결방안
+기본적인 파일 IO에 대한 이해가 필요했으며 데이터베이스에는 대부분 파일자체를 저장하지 않는다는 것을 알게되었다.
+1. 자바에서 사용가능한 UUID (범용 고유 식별자)를 사용하여 중복되는 파일이름을 해결하였다.
+2. 데이터베이스에 QNA_IMG_PATH, QNA_IMG_1 등 VARCHAR2 타입으로 경로와 이름만 저장하였다. <br>
 
+![파일업로드](https://user-images.githubusercontent.com/115913274/226154045-aa17b171-7bc4-4f21-b005-7295fc444770.JPG)
 
 ## 10. 개인 회고
 
