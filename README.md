@@ -21,8 +21,7 @@
 
 ## 5. 컨트롤러 구성
 ![컨트롤러](https://user-images.githubusercontent.com/115913274/226087062-e9b1d4ae-6df1-41bb-98a9-d1f0934a3454.JPG) <br>
-최대한 컨트롤러에는 로직을 쓰지 않으려고 함.
-Service를 만들어 컨트롤러에서 동작하게 끔 구현
+서비스에서 비즈니스 로직을 포함하고 컨트롤러에서는 콜만 수행토록 구현
 
 ## 6. 패키지 구성
 ![패키지 구성](https://user-images.githubusercontent.com/115913274/226087046-519171dd-8ccd-453e-beb2-718fff745924.JPG)
