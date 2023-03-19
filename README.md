@@ -24,7 +24,8 @@
 서비스에서 비즈니스 로직을 포함하고 컨트롤러에서는 콜만 수행토록 구현
 
 ## 6. 패키지 구성
-![패키지 구성](https://user-images.githubusercontent.com/115913274/226087046-519171dd-8ccd-453e-beb2-718fff745924.JPG)
+![패키지 구성](https://user-images.githubusercontent.com/115913274/226153299-ff682e73-9943-444d-988b-48e8c32eee1b.JPG)
+
 
 ## 7. 구현 기능
 - 전체적인 페이지는 CSS, JS를 사용하여 구현 
