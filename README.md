@@ -39,7 +39,7 @@
 ![ONÓRE - 상품페이지](https://user-images.githubusercontent.com/115913274/226108874-ecaf8dd8-4aa9-4978-a480-9d97ee08783c.gif)<br>
 
 ### QnA 게시판 CRUD 구현
-- QnaController로 요청 후 QnaService에서 요청처리 후 반환<br>
+- QnaController 요청 후 QnaService에서 반환<br>
 ![CRUD](https://user-images.githubusercontent.com/115913274/226153204-cbd83108-3af2-4fc5-8af3-868220ada38d.gif)
 
 
