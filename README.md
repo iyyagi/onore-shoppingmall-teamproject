@@ -30,7 +30,8 @@
 - 전체적인 페이지는 CSS, JS를 사용하여 구현 
 
 ### 상품 카테고리 비동기 통신 구현
-![상품페이지](https://user-images.githubusercontent.com/115913274/226159434-dce4a649-7f90-4bac-9534-7ef239598587.gif) <br>
+![bandicam-2023-03-19-16-02-02-212](https://user-images.githubusercontent.com/115913274/226159567-254c27e8-3a21-4a4d-bc69-332353d40ae8.gif)
+
 - JavaScript로 비동기 요청 <br>
 - ShopRestController, ShopService에서 요청 처리 후 반환<br>
 
