@@ -40,8 +40,9 @@
 ![CRUD](https://user-images.githubusercontent.com/115913274/226153204-cbd83108-3af2-4fc5-8af3-868220ada38d.gif)
 
 
-
 ### 마이페이지 구현
+- view단 MemberController 요청 후 MemberService에서 반환<br>
+- 더보기 : MyapgeController 요청 후 MyPageSerivce에서 반환<br>
 ![bandicam-2023-03-19-09-18-36-666](https://user-images.githubusercontent.com/115913274/226146952-ac6dfd0f-3183-4c46-bd5b-8f7a7093154a.gif)
 
 </br>
