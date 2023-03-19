@@ -62,6 +62,3 @@
 
 ![파일업로드](https://user-images.githubusercontent.com/115913274/226154045-aa17b171-7bc4-4f21-b005-7295fc444770.JPG) <br>
 ![파일저장](https://user-images.githubusercontent.com/115913274/226154200-7a9bdef1-addc-4dfb-b6fc-424fc89d2b53.JPG)
-
-## 10. 개인 회고
-
