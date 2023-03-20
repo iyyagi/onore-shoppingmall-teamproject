@@ -30,13 +30,15 @@
 - 전체적인 페이지는 CSS, JS를 사용하여 구현 
 
 ### 상품 카테고리 비동기 통신 구현
+![bandicam-2023-03-19-16-02-02-212](https://user-images.githubusercontent.com/115913274/226159567-254c27e8-3a21-4a4d-bc69-332353d40ae8.gif)
 
 - JavaScript로 비동기 요청 <br>
 - ShopRestController, ShopService에서 요청 처리 후 반환<br>
-![ONÓRE - 상품페이지](https://user-images.githubusercontent.com/115913274/226108874-ecaf8dd8-4aa9-4978-a480-9d97ee08783c.gif)<br>
+
 
 ### QnA 게시판 CRUD 구현
 - QnaController 요청 후 QnaService에서 반환<br>
+
 ![CRUD](https://user-images.githubusercontent.com/115913274/226153204-cbd83108-3af2-4fc5-8af3-868220ada38d.gif)
 
 
@@ -60,8 +62,8 @@
 
 
 ## 9. 해결방안
-기본적인 파일 IO에 대한 이해가 필요했으며 데이터베이스에는 대부분 파일자체를 저장하지 않는다는 것을 알게되었다.
-1. 자바에서 사용가능한 UUID (범용 고유 식별자)를 사용하여 중복되는 파일이름을 해결하였다.
+기본적인 파일 IO에 대한 이해가 필요했으며 데이터베이스에는 대부분 파일 자체를 저장하지 않는다는 것을 알게 되었다.<br>
+1. 자바에서 사용 가능한 UUID (범용 고유 식별자)를 사용하여 중복되는 파일 이름을 해결하였다. <br>
 2. 데이터베이스에 QNA_IMG_PATH, QNA_IMG_1 등 VARCHAR2 타입으로 경로와 이름만 저장하였다. <br>
 
 ![파일업로드](https://user-images.githubusercontent.com/115913274/226154045-aa17b171-7bc4-4f21-b005-7295fc444770.JPG) <br>
