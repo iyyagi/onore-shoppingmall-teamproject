@@ -7,11 +7,12 @@
 <meta charset="UTF-8">
 <title>ONÓRE</title>
 <%@ include file="../header.jspf" %>
-<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=75e78a8a9cdd102b783fb3c5f36e1da5"></script>
 <link href="<%=request.getContextPath() %>/resources/menu/css/location.css?ver=1" rel="stylesheet"/>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=6db29ee5a5e4a776f7cad34d6299b2d8"></script>
 </head>
 <body>
 <%@ include file="../top.jspf" %>
+
 <!-- middle 시작 -->
 <div class="middle_location_div">
    <div class="location_div">
