@@ -53,9 +53,10 @@ public class ReviewServiceImpl implements ReviewService{
 
 	@Override
 	public void fileUpload(ReviewDTO rev, List<MultipartFile> file) throws IllegalStateException, IOException {
-		//String imgPath = "C:\\Users\\minbong\\git\\teamproject-shoppingmall\\OnoreTeamProject\\src\\main\\webapp\\resources\\review\\image";
-		//String imgPath = "/Users/kang/git/teamproject-shoppingmall/OnoreTeamProject/src/main/webapp/resources/review/image/"; // 노트북
-		String imgPath = "C:\\Users\\K\\git\\teamproject-shoppingmall\\OnoreTeamProject\\src\\main\\webapp\\resources\\review\\image\\";
+		
+		//String imgPath = "C:\\Users\\K\\git\\teamproject-shoppingmall\\OnoreTeamProject\\src\\main\\webapp\\resources\\review\\image\\";
+		String imgPath = "/opt/tomcat/apache-tomcat-9.0.73/webapps/OnoreTeamProject/WEB-INF/resources/review/image/";
+		
 		UUID uuid = UUID.randomUUID();
 		String[] fileName = new String[3];
 
