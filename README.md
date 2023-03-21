@@ -3,7 +3,7 @@
 
 http://118.67.135.214:8888/OnoreTeamProject/admin/main
 
-관리자용 계정 ID : admin
+관리자용 계정 ID : admin <br>
 관리자용 계정 PW : 1q2w3e4r!
 <hr>
 ## 1. 제작 기간 & 참여 인원
