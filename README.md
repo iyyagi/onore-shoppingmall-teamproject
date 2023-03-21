@@ -1,7 +1,7 @@
 # :pushpin:남성구두 수제화 쇼핑몰(Onore Team Project)
 <hr>
 
-http://118.67.135.214:8888/OnoreTeamProject/admin/main
+http://118.67.135.214:8888/OnoreTeamProject/admin/main <br>
 
 관리자용 계정 ID : admin <br>
 관리자용 계정 PW : 1q2w3e4r!
