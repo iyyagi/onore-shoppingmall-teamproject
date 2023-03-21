@@ -3,8 +3,8 @@
 
 http://118.67.135.214:8888/OnoreTeamProject/admin/main <br>
 
-관리자용 계정 ID : admin <br>
-관리자용 계정 PW : 1q2w3e4r! <br>
+관리자 ID : admin <br>
+관리자 PW : 1q2w3e4r! <br>
 
 ## 1. 제작 기간 & 참여 인원
 프로젝트 기간 2022.02.13 ~ 2022.03.17(약 5주) <br>
