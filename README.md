@@ -3,8 +3,6 @@
 
 http://118.67.135.214:8888/OnoreTeamProject/main/ <br>
 FHD 1920 x 1080 최적화 <br>
-관리자 ID : admin <br>
-관리자 PW : 1q2w3e4r! <br>
 
 ※ 코드 수정 작업 중에는 홈페이지 접속이 원활하지 않을 수 있습니다.
 
