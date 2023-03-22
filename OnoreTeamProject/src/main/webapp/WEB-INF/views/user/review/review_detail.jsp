@@ -6,8 +6,20 @@
 <head>
 <meta charset="UTF-8">
 <title>ONÓRE</title>
-<%@ include file="../header.jspf"%>
 <link rel="icon" href="<%=request.getContextPath() %>/resources/review/image/파비콘.png">
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+<link
+	href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css"
+	rel="stylesheet">
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+<script
+	src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
+<script
+	src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
+<%@ include file="../header.jspf"%>
 <link rel="stylesheet"
 	href="<%=request.getContextPath() %>/resources/review/css/review_detail.css?ver=8">
 </head>
@@ -123,8 +135,8 @@
 			<hr>
 			<div class="button">
 				<c:if test="${sessionScope.signIn.mem_id eq contents.mem_id || sessionScope.signIn.mem_id eq 'admin'}">
-					<a href="./modify?review_num=${contents.review_num }&product_num=${contents.product_num}">수정하기</a> / 
-					<a href="./delete?review_num=${contents.review_num }" onclick="return confirm('삭제하시겠습니까?')">삭제하기</a><br>
+					<a href="<%=request.getContextPath() %>/review/modify?review_num=${contents.review_num }&product_num=${contents.product_num}">수정하기</a> / 
+					<a href="<%=request.getContextPath() %>/review/delete?review_num=${contents.review_num }" onclick="return confirm('삭제하시겠습니까?')">삭제하기</a><br>
 				</c:if>
 				
 			</div>
@@ -132,7 +144,7 @@
 			<span id="comment_id" style="display: none;" >${sessionScope.signIn.mem_id}</span>
 			<div id="write_reply">
 			<h4> 댓글(${cnt })</h4>
-				<form action="./comment" method="POST">
+				<form action="<%=request.getContextPath() %>/review/comment" method="POST">
 					<input type="hidden" value="${contents.review_num }" id="num">
 					<textarea id="comment_content" rows="3" cols="120" placeholder="댓글을 입력해주세요"></textarea><br>
 					<button type="button" id="comment">댓글달기</button>
@@ -146,7 +158,7 @@
 			<div class="comment_box">
 				<input type="hidden" class="com_num" value="${comment.comment_num }">
 				<span class="mem" style="display: none">${comment.comment_id }</span>
-				<div><span class="com_id"></span> &nbsp;&nbsp; ${comment.creationCommentDate }</div>
+				<div><span class="com_id"></span> &nbsp;&nbsp; ${comment.comment_date }</div>
 				<br>
 				<div id="reply_detail">
 					<div id="get_content">${comment.comment_content }</div>
@@ -158,7 +170,7 @@
 					</div>
 				</div>
 				<div id="reply_modify_form" style="display: none;">
-					<form action="./com_modify" method="POST">
+					<form action="<%=request.getContextPath() %>/com_modify" method="POST">
 						<textarea id="reply_modify" rows="3" cols="120">${comment.comment_content }</textarea>
 						<br>
 						<input id="modify_cancel" type="button" value="취소">
@@ -171,16 +183,21 @@
 				</div>	
 				<hr>
 			</c:forEach>
-			<button onclick="location.href='./list'" id="list">목록으로</button>
+			<button onclick="location.href='<%=request.getContextPath() %>/list'" id="list">목록으로</button>
 			<br>
 		</div>
 	</div>
-
-	<hr>
+		<!-- BootStrap modal 이미지 모달창 jquery -->
+	<script>
+		$(document).on('click', '[data-toggle="lightbox"]', function(event) {
+			event.preventDefault();
+			$(this).ekkoLightbox();
+		});
+	</script>
+	
 
 	<%@ include file="../bottom.jspf"%>
 
 	<script src="<%=request.getContextPath() %>/resources/review/js/review_detail.js?ver=5" defer></script>
 </body>
-
 </html>

@@ -15,7 +15,7 @@
 	<%@ include file="../top.jspf" %>
 
 	
-	<div class="main" style="padding-top: 127px;  width: auto;  margin:50px; margin-top: 0px;">
+	<div class="main" style="padding-top: 127px; min-height:600px; width: auto;  margin:50px; margin-top: 0px;">
 	<hr>
 		<div class="board" style="padding: 60px;">
 			<table>
@@ -99,13 +99,13 @@
 					<a href="./list?page=${i }">${i }</a>
 				</c:forEach>
 				<c:if test="${pagination_end % 5 eq 0 }">
-					<a href="./list?page=${next_page }">></a>
+					<a href="./list?page=${next_page }"></a>
 				</c:if>
 			</div>
 		</div>
 	</div>
 	
-	<hr>
+	
 	
 	<%@ include file="../bottom.jspf" %>
 

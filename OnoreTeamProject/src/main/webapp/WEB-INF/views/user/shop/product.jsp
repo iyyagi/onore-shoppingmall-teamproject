@@ -8,7 +8,7 @@
 <meta charset="UTF-8">
 <title>ONÓRE</title>
 <%@ include file="../header.jspf" %>
-<link rel="icon" href="<%=request.getContextPath()%>/resources/review/image/파비콘.png">
+<link rel="icon" href="<%=request.getContextPath()%>/resources/main/image/fabicon.png">
 <link rel="stylesheet"href="<%=request.getContextPath()%>/resources/shop/css/product_detail.css?ver=5">
 <script src="<%=request.getContextPath()%>/resources/shop/js/product_detail.js?ver=1" defer></script>
 </head>
@@ -121,7 +121,7 @@
 					<input type="hidden" value="1" id="order_cnt" name="order_cnt">
 					<input type="hidden" id="cart_product_price" name="cart_product_price"/>
 					<input type="submit" value="주문하기" formaction="../order/order_directly" id="order" disabled>
-					<input type="submit" value="장바구니" formaction="./insert_cart" id="cart" disabled>
+					<input type="submit" value="장바구니" formaction="<%=request.getContextPath()%>/shop/insert_cart" id="cart" disabled>
 				</form>
 			</div>
 		</div>
@@ -207,7 +207,7 @@
 						</tr>
 				</c:forEach>
 			</table>
-			<button id="review">리뷰쓰기</button>
+		
 			</div>
 			<div class="qna">
 				<h3>Q & A</h3>
@@ -248,7 +248,7 @@
 		</div>
 			<br>
 	</div>
-	<hr>
+	
 	
 	<%@ include file="../bottom.jspf" %>
 

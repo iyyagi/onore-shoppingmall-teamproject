@@ -6,6 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <title>ONÓRE</title>
+<link rel="icon" href="<%=request.getContextPath() %>/resources/error/favicon.png">
 <link href="<%=request.getContextPath() %>/resources/menu/css/join_success.css?ver=1" rel="stylesheet"/>
 <%@include file="../header.jspf" %>
 </head>
@@ -24,5 +25,5 @@
 </div>
 <!-- middle 끝 -->
        
-<script src="/project/resources/menu/js/menubar.js"></script>
+<script src="<%=request.getContextPath() %>/resources/menu/js/menubar.js"></script>
 <%@include file="../bottom.jspf" %>

@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <title>오노레 글쓰기</title>
-
+<link rel="icon" href="<%=request.getContextPath() %>/resources/qna/images/favicon.png">
 <link rel="stylesheet"
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 <script
@@ -78,7 +78,7 @@
 
 		</form>
 	</div>
-	<hr>
+
 	<%@include file="../bottom.jspf"%>
 	<script type="text/javascript"
 		src="<%=request.getContextPath()%>/resources/qna/js/qna_write.js"></script>
