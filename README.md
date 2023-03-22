@@ -1,8 +1,13 @@
 # :pushpin:남성구두 수제화 쇼핑몰(Onore Team Project)
 <hr>
 
+http://118.67.135.214:8888/OnoreTeamProject/main/ <br>
+FHD 1920 x 1080 최적화 <br>
+
+※ 코드 수정 작업 중에는 홈페이지 접속이 원활하지 않을 수 있습니다.
+
 ## 1. 제작 기간 & 참여 인원
-프로젝트 기간 2022.02.13 ~ 2022.03.17(약 5주) <br>
+프로젝트 기간 2022.02.13 ~ 2022.03.22(5주) <br>
 프로젝트 인원 : 5명
 
 ![메인](https://user-images.githubusercontent.com/115913274/225919477-74ebd1a4-c6c1-42a6-b7c6-6270233d5d94.png) <br>
