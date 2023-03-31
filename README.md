@@ -29,7 +29,7 @@ FHD 1920 x 1080 최적화 <br>
 ![컨트롤러](https://user-images.githubusercontent.com/115913274/226087062-e9b1d4ae-6df1-41bb-98a9-d1f0934a3454.JPG) <br>
 서비스에서 비즈니스 로직을 포함하고 컨트롤러에서는 콜만 수행토록 구현
 
-## 6. 패키지 구성
+## 6. 패키지 구성 (Controller, Service, DTO, mapper)
 ![패키지 구성](https://user-images.githubusercontent.com/115913274/226153349-c965e144-cd59-4329-be7b-267f361d0f3c.JPG) <br>
 
 ## 7. 구현 기능
