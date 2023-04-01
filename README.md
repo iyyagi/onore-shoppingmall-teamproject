@@ -98,7 +98,11 @@ FHD 1920 x 1080 최적화 <br>
 
 ### 에러페이지 구현
 ![error](https://user-images.githubusercontent.com/115913274/229286594-3851a516-d45d-4b02-993d-3f6ebfa4429f.JPG) 
-에러페이지 처리 400, 404, 500
+에러페이지 처리 400, 404, 500 <br>
+
+### 기타
+- GitHub 형상관리
+- JSP, JS rootContext 수정 작업 완료 후 서버에 배포
 
 ## 8. 문제점
 
