@@ -101,7 +101,7 @@ FHD 1920 x 1080 최적화 <br>
 
 ### 기타
 - GitHub 형상관리
-- 전체 JSP, JS request.getContextPath() 수정 작업 완료 후 서버에 배포
+- 전체 JSP, JS request 경로 작업 완료 후 서버에 배포
 
 ## 8. 문제점
 
