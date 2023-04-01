@@ -85,6 +85,7 @@ FHD 1920 x 1080 최적화 <br>
 
 ### QnA 게시판 CRUD + 파일 업로드 구현
 - QnaController 요청 후 QnaService에서 반환<br>
+- 상품 검색 비동기 통신 구현
 ![CRUD](https://user-images.githubusercontent.com/115913274/226153204-cbd83108-3af2-4fc5-8af3-868220ada38d.gif)
 
 
