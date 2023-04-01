@@ -15,10 +15,7 @@ FHD 1920 x 1080 최적화 <br>
 ![메인](https://user-images.githubusercontent.com/115913274/225919477-74ebd1a4-c6c1-42a6-b7c6-6270233d5d94.png) <br>
 ![메인페이지](https://user-images.githubusercontent.com/115913274/226086462-27d793ed-7dc9-4e69-93e2-d4154d2d7ba0.png)
 
-## 6. 전체 기능
-<details>
-<summary><b>기능 설명</b></summary>
-<div markdown="1">
+## 전체 기능
 
 ### 1. 회원가입, 로그인, 회원정보수정 구현
   - 회원가입 : 아이디 중복확인, 비밀번호 암호화, 정규표현식
@@ -53,9 +50,6 @@ FHD 1920 x 1080 최적화 <br>
   - 주문 완료 : 주문한 상품 정보 출력
 
  <br>
- 
-</div>
-</details>
 
 ## 2. 사용 기술<br>
 ![기술](https://user-images.githubusercontent.com/115913274/226156447-d04d6508-eaf8-4ca8-b54d-bb9ad47c021b.JPG)
