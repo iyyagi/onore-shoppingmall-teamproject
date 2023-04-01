@@ -96,7 +96,7 @@ FHD 1920 x 1080 최적화 <br>
 </br>
 
 ### 에러페이지 구현
-![error](https://user-images.githubusercontent.com/115913274/229286594-3851a516-d45d-4b02-993d-3f6ebfa4429f.JPG) <
+![error](https://user-images.githubusercontent.com/115913274/229286594-3851a516-d45d-4b02-993d-3f6ebfa4429f.JPG) 
 에러페이지 처리 400, 404, 500
 
 ## 8. 문제점
